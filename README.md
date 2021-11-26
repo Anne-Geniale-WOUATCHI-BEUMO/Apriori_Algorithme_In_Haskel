@@ -16,3 +16,7 @@
 #      - stack build
 #      - stack exec Apriori_Algorithme_In_Haskel
       
+
+
+
+#NB : L'algorithme n'est pas encore complet
